@@ -20,41 +20,29 @@
 **Автоматизация (Python)**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
 **Базы данных и контроль версий**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📁 Чем я горжусь (Pinned проекты)
+### 📁 Чем я горжусь
 
-В закрепленных репозиториях ты найдешь:
+В закрепленных репозиториях ты найдешь мои проекты:
 
-| **📬 API Tests Collection** | Коллекция автотестов для REST API (библиотека Requests). Проверка JSON-схем, статус-кодов, позитивные/негативные сценарии. |
-| **🐛 Мои баг-репорты** | Примеры настоящих баг-репортов (из учебных проектов и pet-проектов). Оформлены по стандартам, со скринами и логами. |
-| **📝 Чек-листы и тест-кейсы** | Примеры тестовой документации, которую я пишу для веб-форм и API. |
-
----
-
-
+<a href="https://github.com/твой_логин/api-tests-collection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=твой_логин&repo=api-tests-collection&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/твой_логин/bug-reports">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=твой_логин&repo=bug-reports&theme=radical&hide_border=true" />
+</a>
+<br><br>
+<a href="https://github.com/твой_логин/checklists-test-cases">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=твой_логин&repo=checklists-test-cases&theme=radical&hide_border=true" />
+</a>
 
 ---
 
 ### 📫 Как со мной связаться
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ksuxha)
-
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_ЛОГИН&label=👀+Смотрели&color=ff69b4&style=flat" alt="Просмотры профиля"/>
-</p>
