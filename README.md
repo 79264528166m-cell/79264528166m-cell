@@ -5,9 +5,8 @@
 
 ### 🔍 About Me
 
-- 💡 **2+ years** in software testing. Started with manual testing of web applications, now actively writing automated tests in **Python**.
-- 🚀 Moving into automation because I want regression testing to take 20 minutes instead of 3 days 
-
+- ✦ **2+ years** in software testing. Started with manual testing of web applications, now actively writing automated tests in **Python**.
+- ⟶ Moving into automation because I want regression testing to take 20 minutes instead of 3 days
 
 ---
 
@@ -44,16 +43,12 @@ Check out my pinned repositories:
 
 | Project | Description |
 |--------|-------------|
-| **📬 API Tests Collection** | Automated tests for REST API using Requests library. JSON schema validation, status codes check, positive/negative scenarios. |
-| **🐛 My Bug Reports** | Examples of real bug reports (from study projects and pet projects). Properly formatted with screenshots and logs. |
-| **📝 Checklists & Test Cases** | Examples of test documentation I write for web forms and APIs. |
-
+| **API Tests Collection** | Automated tests for REST API using Requests library. JSON schema validation, status codes check, positive/negative scenarios. |
+| **Bug Reports** | Examples of real bug reports (from study projects and pet projects). Properly formatted with screenshots and logs. |
+| **Checklists & Test Cases** | Examples of test documentation I write for web forms and APIs. |
 
 ---
 
 ### 📫 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ksuxha)
-
-
-
