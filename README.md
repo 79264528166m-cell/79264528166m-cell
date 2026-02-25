@@ -1,21 +1,76 @@
-<h1 align="center">
-  <img src="./icon/Hello.svg" alt="Typing SVG" />
-</h1>
+<h1 align="center">Привет! Я Ксюша 🐞✨</h1>
+<h3 align="center">QA Engineer | Manual → Automation (Python) | Москва</h3>
+
+---
+
+### 🌿 Обо мне
+
+- 🔍 В тестировании **больше 2 лет**. Начинала с мануального тестирования веб-приложений, сейчас активно пишу автотесты на **Python**.
+- 🌱 Перехожу в автоматизацию, потому что хочу, чтобы регресс тестирование проходило не за 3 дня, а за 20 минут 🚀
+- 💡 Люблю копаться в требованиях и находить баги там, где их никто не ждал.
+- 🎯 Сейчас активно изучаю: **PyTest**, **Selenium**, **Requests**, паттерн **PageObject**.
+
+---
+
+### 🛠 Мой инструментарий
+
+**Мануальное тестирование**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65B179?style=for-the-badge&logo=testrail&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+**Автоматизация (Python)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
+
+**Базы данных и контроль версий**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📁 Чем я горжусь (Pinned проекты)
+
+В закрепленных репозиториях ты найдешь:
+
+| Проект | Описание |
+|--------|----------|
+| **🐍 Python AutoTests (UI)** | Учебный фреймворк на PyTest + Selenium. Реализован PageObject, запуск тестов в Chrome/Firefox, генерация отчетов. |
+| **📬 API Tests Collection** | Коллекция автотестов для REST API (библиотека Requests). Проверка JSON-схем, статус-кодов, позитивные/негативные сценарии. |
+| **🐛 Мои баг-репорты** | Примеры настоящих баг-репортов (из учебных проектов и pet-проектов). Оформлены по стандартам, со скринами и логами. |
+| **📝 Чек-листы и тест-кейсы** | Примеры тестовой документации, которую я пишу для веб-форм и API. |
+
+---
+
+### 🌟 Мои цели на ближайшее время
+
+- [x] Написать первый автотест на Python
+- [x] Разобраться с PageObject
+- [ ] Добавить тесты в CI/CD (GitHub Actions / Jenkins)
+- [ ] Выучить SQL на уровне сложных join'ов
+- [ ] Получить первую работу в автоматизации 💪
+
+---
+
+### 📫 Как со мной связаться
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_логин)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твояпочта@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой-профиль)
+
+---
 
 <p align="center">
-  <img src="./icon/header_1.png" alt="header" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
-<div align="center">
-  
-  [![Telegram](./logo/Telegram_logo.svg)](https://t.me/ksuxha)
-  
-</div>
+---
 
-# <img src="./icon/code_gif.webp" width="25px"> About Me
-
-I'm a QA Engineer (Manual → Automation)
-
-I've been testing for **3 years**. I started as a manual tester in web projects, and now I'm actively developing in automation.
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_ЛОГИН&label=👀+Смотрели&color=ff69b4&style=flat" alt="Просмотры профиля"/>
+</p>
