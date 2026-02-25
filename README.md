@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Kenia 🐞</h1>
+<h1 align="center">Hi there! I'm Ksenia 🐞</h1>
 <h3 align="center">QA Engineer | Manual → Automation (Python) | Moscow</h3>
 
 ---
