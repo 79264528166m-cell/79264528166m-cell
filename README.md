@@ -1,43 +1,21 @@
-<h1 align="center">Привет, я Ксения 👩‍💻</h1>
-<h3 align="center">QA Engineer (Manual → Automation)</h3>
-
----
-
-### 🌟 Обо мне
-
-- ✨ В тестировании **3 года**. Начинала как мануальный тестировщик в веб-проектах, сейчас активно развиваюсь в автоматизации.
-
-
----
-
-### 🛠 Мой стек
-
-**Мануальное тестирование:**
-`Функциональное тестирование` `Регресс` `Smoke` `Тест-дизайн` `TestRail`
-
-**Автоматизация (в процессе изучения):**
-`Python`
-
-**API и инструменты:**
-`Postman` `REST API` `Chrome DevTools` `SQL`
-
----
-
-### 📁 Проекты и примеры работ
-
-В закрепленных репозиториях вы найдете:
-
-1.  **🔧 [Примеры баг-репортов]** — Реальные баги, которые я находила в учебных проектах, с подробным описанием.
-
----
-
-### 📫 Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ksuxha)
-
-
----
+<h1 align="center">
+  <img src="./icon/Hello.svg" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="./icon/header_1.png" alt="header" width="100%"/>
 </p>
+
+<div align="center">
+  
+  [![Telegram](./logo/Telegram_logo.svg)](https://t.me/ksuxha)
+  
+</div>
+
+# <img src="./icon/code_gif.webp" width="25px"> About Me
+
+I'm a QA Engineer (Manual → Automation)
+
+I've been testing for **3 years**. I started as a manual tester in web projects, and now I'm actively developing in automation.
+
+</div>
