@@ -5,8 +5,8 @@
 
 ### 🔍 About Me
 
-- ✦ **2+ years** in software testing. Started with manual testing of web applications, now actively writing automated tests in **Python**.
-- ⟶ Moving into automation because I want regression testing to take 20 minutes instead of 3 days
+-  **2+ years** in software testing. Started with manual testing of web applications, now actively writing automated tests in **Python**.
+-  Moving into automation because I want regression testing to take 20 minutes instead of 3 days
 
 ---
 
