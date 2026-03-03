@@ -40,7 +40,7 @@
 Ссылки на проекты:
 - [Load Testing Framework](https://github.com/79264528166m-cell/locust-website-tests)
 - [API Tests Collection](https://github.com/79264528166m-cell/my-api-tests)
-- [Data Generator](https://github.com/79264528166m-cell/qa-data-generator)
+- [Data Generator](https://github.com/79264528166m-cell/qa-data-generator )
 
 ---
 
