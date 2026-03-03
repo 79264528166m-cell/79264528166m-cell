@@ -29,70 +29,24 @@
 
 ---
 
-### 📁 What I'm Proud Of
+### 📁 My Projects
 
-Check out my pinned repositories:
+| Проект | Описание |
+|--------|---------|
+| **📊 Load Testing Framework** | Python, Locust, Faker - Нагрузочное тестирование с генерацией данных и HTML отчетами. |
+| **🧪 API Tests Collection** | Python, Requests, Pytest - Автотесты для REST API с валидацией JSON схем. |
+| **🧪 Data Generator** | Python, Faker, CSV - Инструмент для синтеза тестовых данных для QA-инженеров.|
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📊 Load Testing Framework</h3>
-      <div align="center">  
-        <a href="https://github.com/locust-website-tests/locust-website-tests">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=79264528166m-cell
-&repo=locust-website-tests&theme=radical&hide_border=true" />
-        </a>
-        <p><strong>Python, Locust, Faker</strong> - Нагрузочное тестирование с генерацией данных и HTML отчетами</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧪 API Tests Collection</h3>
-      <div align="center">  
-        <a href="https://github.com/your_username/api-tests-collection">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=api-tests-collection&theme=radical&hide_border=true" />
-        </a>
-        <p><strong>Python, Requests, Pytest</strong> - Автотесты для REST API с валидацией JSON схем</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🐛 Bug Reports</h3>
-      <div align="center">  
-        <a href="https://github.com/your_username/bug-reports">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=bug-reports&theme=radical&hide_border=true" />
-        </a>
-        <p>Примеры баг-репортов со скриншотами, логами и шагами воспроизведения</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📋 Test Documentation</h3>
-      <div align="center">  
-        <a href="https://github.com/your_username/checklists-test-cases">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=checklists-test-cases&theme=radical&hide_border=true" />
-        </a>
-        <p>Чек-листы и тест-кейсы для веб-форм и API</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=79264528166m-cell&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=79264528166m-cell&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+Ссылки на проекты:
+- [Load Testing Framework](https://github.com/79264528166m-cell/locust-website-tests)
+- [API Tests Collection](https://github.com/79264528166m-cell/my-api-tests)
+- [Data Generator](https://github.com/79264528166m-cell/data-generator)
 
 ---
 
 ### 📫 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ksuxha)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=79264528166m-cell&color=blueviolet&style=flat" />
